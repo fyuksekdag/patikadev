@@ -1,0 +1,15 @@
+C:\Users\sezer\Desktop\UnityPath\C#_101\console_programming\bin\Debug\net6.0\console_programming.exe
+C:\Users\sezer\Desktop\UnityPath\C#_101\console_programming\bin\Debug\net6.0\console_programming.deps.json
+C:\Users\sezer\Desktop\UnityPath\C#_101\console_programming\bin\Debug\net6.0\console_programming.runtimeconfig.json
+C:\Users\sezer\Desktop\UnityPath\C#_101\console_programming\bin\Debug\net6.0\console_programming.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\console_programming\bin\Debug\net6.0\ref\console_programming.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\console_programming\bin\Debug\net6.0\console_programming.pdb
+C:\Users\sezer\Desktop\UnityPath\C#_101\console_programming\obj\Debug\net6.0\console_programming.csproj.AssemblyReference.cache
+C:\Users\sezer\Desktop\UnityPath\C#_101\console_programming\obj\Debug\net6.0\console_programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sezer\Desktop\UnityPath\C#_101\console_programming\obj\Debug\net6.0\console_programming.AssemblyInfoInputs.cache
+C:\Users\sezer\Desktop\UnityPath\C#_101\console_programming\obj\Debug\net6.0\console_programming.AssemblyInfo.cs
+C:\Users\sezer\Desktop\UnityPath\C#_101\console_programming\obj\Debug\net6.0\console_programming.csproj.CoreCompileInputs.cache
+C:\Users\sezer\Desktop\UnityPath\C#_101\console_programming\obj\Debug\net6.0\console_programming.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\console_programming\obj\Debug\net6.0\ref\console_programming.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\console_programming\obj\Debug\net6.0\console_programming.pdb
+C:\Users\sezer\Desktop\UnityPath\C#_101\console_programming\obj\Debug\net6.0\console_programming.genruntimeconfig.cache
