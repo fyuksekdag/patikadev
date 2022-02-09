@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sezer\\Desktop\\UnityPath\\C#_101\\patikadev\\C#101_Patika\\console_programming\\console_programming.csproj": {}
+    "C:\\Users\\sezer\\Desktop\\UnityPath\\C#_101\\patikadev\\C#101_Patika\\DEGISKENLER\\DEGISKENLER.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sezer\\Desktop\\UnityPath\\C#_101\\patikadev\\C#101_Patika\\console_programming\\console_programming.csproj": {
+    "C:\\Users\\sezer\\Desktop\\UnityPath\\C#_101\\patikadev\\C#101_Patika\\DEGISKENLER\\DEGISKENLER.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sezer\\Desktop\\UnityPath\\C#_101\\patikadev\\C#101_Patika\\console_programming\\console_programming.csproj",
-        "projectName": "console_programming",
-        "projectPath": "C:\\Users\\sezer\\Desktop\\UnityPath\\C#_101\\patikadev\\C#101_Patika\\console_programming\\console_programming.csproj",
+        "projectUniqueName": "C:\\Users\\sezer\\Desktop\\UnityPath\\C#_101\\patikadev\\C#101_Patika\\DEGISKENLER\\DEGISKENLER.csproj",
+        "projectName": "DEGISKENLER",
+        "projectPath": "C:\\Users\\sezer\\Desktop\\UnityPath\\C#_101\\patikadev\\C#101_Patika\\DEGISKENLER\\DEGISKENLER.csproj",
         "packagesPath": "C:\\Users\\sezer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sezer\\Desktop\\UnityPath\\C#_101\\patikadev\\C#101_Patika\\console_programming\\obj\\",
+        "outputPath": "C:\\Users\\sezer\\Desktop\\UnityPath\\C#_101\\patikadev\\C#101_Patika\\DEGISKENLER\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sezer\\AppData\\Roaming\\NuGet\\NuGet.Config"
