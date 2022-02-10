@@ -1,0 +1,15 @@
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Tip_Donusumleri\bin\Debug\net6.0\Tip_Donusumleri.exe
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Tip_Donusumleri\bin\Debug\net6.0\Tip_Donusumleri.deps.json
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Tip_Donusumleri\bin\Debug\net6.0\Tip_Donusumleri.runtimeconfig.json
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Tip_Donusumleri\bin\Debug\net6.0\Tip_Donusumleri.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Tip_Donusumleri\bin\Debug\net6.0\ref\Tip_Donusumleri.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Tip_Donusumleri\bin\Debug\net6.0\Tip_Donusumleri.pdb
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.csproj.AssemblyReference.cache
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.AssemblyInfoInputs.cache
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.AssemblyInfo.cs
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Tip_Donusumleri\obj\Debug\net6.0\ref\Tip_Donusumleri.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.pdb
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Tip_Donusumleri\obj\Debug\net6.0\Tip_Donusumleri.genruntimeconfig.cache
