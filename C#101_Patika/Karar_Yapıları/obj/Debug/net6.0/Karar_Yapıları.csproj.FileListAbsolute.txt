@@ -1,0 +1,15 @@
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Karar_Yapıları\obj\Debug\net6.0\Karar_Yapıları.csproj.AssemblyReference.cache
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Karar_Yapıları\obj\Debug\net6.0\Karar_Yapıları.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Karar_Yapıları\obj\Debug\net6.0\Karar_Yapıları.AssemblyInfoInputs.cache
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Karar_Yapıları\obj\Debug\net6.0\Karar_Yapıları.AssemblyInfo.cs
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Karar_Yapıları\obj\Debug\net6.0\Karar_Yapıları.csproj.CoreCompileInputs.cache
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Karar_Yapıları\bin\Debug\net6.0\Karar_Yapıları.exe
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Karar_Yapıları\bin\Debug\net6.0\Karar_Yapıları.deps.json
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Karar_Yapıları\bin\Debug\net6.0\Karar_Yapıları.runtimeconfig.json
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Karar_Yapıları\bin\Debug\net6.0\Karar_Yapıları.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Karar_Yapıları\bin\Debug\net6.0\ref\Karar_Yapıları.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Karar_Yapıları\bin\Debug\net6.0\Karar_Yapıları.pdb
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Karar_Yapıları\obj\Debug\net6.0\Karar_Yapıları.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Karar_Yapıları\obj\Debug\net6.0\ref\Karar_Yapıları.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Karar_Yapıları\obj\Debug\net6.0\Karar_Yapıları.pdb
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Karar_Yapıları\obj\Debug\net6.0\Karar_Yapıları.genruntimeconfig.cache

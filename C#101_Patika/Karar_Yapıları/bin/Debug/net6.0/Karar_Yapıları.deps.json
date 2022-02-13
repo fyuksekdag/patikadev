@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Karar_Yapıları/1.0.0": {
+        "runtime": {
+          "Karar_Yapıları.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Karar_Yapıları/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
