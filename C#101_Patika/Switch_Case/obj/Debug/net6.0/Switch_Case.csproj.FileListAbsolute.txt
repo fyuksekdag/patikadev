@@ -1,0 +1,15 @@
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Switch_Case\bin\Debug\net6.0\Switch_Case.exe
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Switch_Case\bin\Debug\net6.0\Switch_Case.deps.json
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Switch_Case\bin\Debug\net6.0\Switch_Case.runtimeconfig.json
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Switch_Case\bin\Debug\net6.0\Switch_Case.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Switch_Case\bin\Debug\net6.0\ref\Switch_Case.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Switch_Case\bin\Debug\net6.0\Switch_Case.pdb
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Switch_Case\obj\Debug\net6.0\Switch_Case.csproj.AssemblyReference.cache
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Switch_Case\obj\Debug\net6.0\Switch_Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Switch_Case\obj\Debug\net6.0\Switch_Case.AssemblyInfoInputs.cache
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Switch_Case\obj\Debug\net6.0\Switch_Case.AssemblyInfo.cs
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Switch_Case\obj\Debug\net6.0\Switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Switch_Case\obj\Debug\net6.0\Switch_Case.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Switch_Case\obj\Debug\net6.0\ref\Switch_Case.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Switch_Case\obj\Debug\net6.0\Switch_Case.pdb
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\Switch_Case\obj\Debug\net6.0\Switch_Case.genruntimeconfig.cache

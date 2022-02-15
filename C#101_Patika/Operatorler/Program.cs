@@ -1,6 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-           int a = 2;
+﻿            int a = 2;
            int b = 4;
            a = a+1;
            Console.WriteLine(a);
