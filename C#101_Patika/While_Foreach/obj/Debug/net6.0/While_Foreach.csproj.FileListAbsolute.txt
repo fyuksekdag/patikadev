@@ -1,0 +1,15 @@
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\While_Foreach\bin\Debug\net6.0\While_Foreach.exe
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\While_Foreach\bin\Debug\net6.0\While_Foreach.deps.json
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\While_Foreach\bin\Debug\net6.0\While_Foreach.runtimeconfig.json
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\While_Foreach\bin\Debug\net6.0\While_Foreach.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\While_Foreach\bin\Debug\net6.0\ref\While_Foreach.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\While_Foreach\bin\Debug\net6.0\While_Foreach.pdb
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\While_Foreach\obj\Debug\net6.0\While_Foreach.csproj.AssemblyReference.cache
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\While_Foreach\obj\Debug\net6.0\While_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\While_Foreach\obj\Debug\net6.0\While_Foreach.AssemblyInfoInputs.cache
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\While_Foreach\obj\Debug\net6.0\While_Foreach.AssemblyInfo.cs
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\While_Foreach\obj\Debug\net6.0\While_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\While_Foreach\obj\Debug\net6.0\While_Foreach.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\While_Foreach\obj\Debug\net6.0\ref\While_Foreach.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\While_Foreach\obj\Debug\net6.0\While_Foreach.pdb
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\While_Foreach\obj\Debug\net6.0\While_Foreach.genruntimeconfig.cache
