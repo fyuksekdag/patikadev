@@ -52,3 +52,8 @@ Console.WriteLine(Math.Log(9));   // 9'un e tabanındaki log.
 Console.WriteLine(Math.Exp(3));   // e üzeri 3'ü verir.
 Console.WriteLine(Math.Log10(10));
 
+
+string s = "07:05:45PM";
+DateTime dt = DateTime.Parse(s);
+string k = dt.ToString("HH:mm:ss");
+Console.WriteLine(k);
