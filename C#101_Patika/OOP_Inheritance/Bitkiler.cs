@@ -4,6 +4,12 @@ public class Bitkiler:Canlilar
     {
         Console.WriteLine("Bitkiler fotosentez yapar.");
     }
+
+    public override void UyaranlaraTepki()
+    {
+        //base.UyaranlaraTepki();
+        Console.WriteLine("Bitkiler güneşe tepki verir.");
+    }
 }
 
 public class TohumluBitkiler:Bitkiler
@@ -13,6 +19,7 @@ public class TohumluBitkiler:Bitkiler
         base.Beslenme();
         base.Bosaltim();
         base.Solunum();
+        base.UyaranlaraTepki();
     }
     public void TohumlaCogalma()
     {

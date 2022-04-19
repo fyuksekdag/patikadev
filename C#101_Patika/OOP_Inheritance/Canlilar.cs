@@ -1,4 +1,4 @@
-public class Canlilar
+public class Canlilar //sealed - kalıtımı engeller.
 {
     protected void Beslenme()
     {
@@ -13,5 +13,8 @@ public class Canlilar
     protected void Bosaltim()
     {
         Console.WriteLine("Canlılar boşaltım yapar.");
+    }
+    public virtual void UyaranlaraTepki(){
+        Console.WriteLine("Canlılar uyaranlara tepki verir.");
     }
 }
