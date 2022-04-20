@@ -1,0 +1,15 @@
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\OOP_Interface\bin\Debug\net6.0\OOP_Interface.exe
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\OOP_Interface\bin\Debug\net6.0\OOP_Interface.deps.json
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\OOP_Interface\bin\Debug\net6.0\OOP_Interface.runtimeconfig.json
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\OOP_Interface\bin\Debug\net6.0\OOP_Interface.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\OOP_Interface\bin\Debug\net6.0\ref\OOP_Interface.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\OOP_Interface\bin\Debug\net6.0\OOP_Interface.pdb
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\OOP_Interface\obj\Debug\net6.0\OOP_Interface.csproj.AssemblyReference.cache
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\OOP_Interface\obj\Debug\net6.0\OOP_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\OOP_Interface\obj\Debug\net6.0\OOP_Interface.AssemblyInfoInputs.cache
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\OOP_Interface\obj\Debug\net6.0\OOP_Interface.AssemblyInfo.cs
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\OOP_Interface\obj\Debug\net6.0\OOP_Interface.csproj.CoreCompileInputs.cache
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\OOP_Interface\obj\Debug\net6.0\OOP_Interface.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\OOP_Interface\obj\Debug\net6.0\ref\OOP_Interface.dll
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\OOP_Interface\obj\Debug\net6.0\OOP_Interface.pdb
+C:\Users\sezer\Desktop\UnityPath\C#_101\patikadev\C#101_Patika\OOP_Interface\obj\Debug\net6.0\OOP_Interface.genruntimeconfig.cache
