@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sezer\\Desktop\\UnityPath\\C#_101\\patikadev\\C#101_Patika\\OOP_Polymorphism\\OOP_Polymorphism.csproj": {}
+    "C:\\Users\\sezer\\Desktop\\UnityPath\\C#_101\\patikadev\\C#101_Patika\\Abstract_Class\\Abstract_Class.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sezer\\Desktop\\UnityPath\\C#_101\\patikadev\\C#101_Patika\\OOP_Polymorphism\\OOP_Polymorphism.csproj": {
+    "C:\\Users\\sezer\\Desktop\\UnityPath\\C#_101\\patikadev\\C#101_Patika\\Abstract_Class\\Abstract_Class.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sezer\\Desktop\\UnityPath\\C#_101\\patikadev\\C#101_Patika\\OOP_Polymorphism\\OOP_Polymorphism.csproj",
-        "projectName": "OOP_Polymorphism",
-        "projectPath": "C:\\Users\\sezer\\Desktop\\UnityPath\\C#_101\\patikadev\\C#101_Patika\\OOP_Polymorphism\\OOP_Polymorphism.csproj",
+        "projectUniqueName": "C:\\Users\\sezer\\Desktop\\UnityPath\\C#_101\\patikadev\\C#101_Patika\\Abstract_Class\\Abstract_Class.csproj",
+        "projectName": "Abstract_Class",
+        "projectPath": "C:\\Users\\sezer\\Desktop\\UnityPath\\C#_101\\patikadev\\C#101_Patika\\Abstract_Class\\Abstract_Class.csproj",
         "packagesPath": "C:\\Users\\sezer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sezer\\Desktop\\UnityPath\\C#_101\\patikadev\\C#101_Patika\\OOP_Polymorphism\\obj\\",
+        "outputPath": "C:\\Users\\sezer\\Desktop\\UnityPath\\C#_101\\patikadev\\C#101_Patika\\Abstract_Class\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sezer\\AppData\\Roaming\\NuGet\\NuGet.Config"
